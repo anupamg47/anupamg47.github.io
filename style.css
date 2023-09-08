@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Space+Grotesk:wght@300&display=swap');
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.profile-img{
+    height: 180px;
+    border-radius: 50%;
+}
+
+h1 {
+  color: #00bf63;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+
+
+
+h2 {
+  color: #00bf63;
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+  font-size: 2.5rem;
+
+  padding-bottom: 10px;
+}
+.hi{
+  font-family: 'Dancing Script', cursive;
+}
+.pro{
+    font-family: 'Roboto Mono', monospace;
+      
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+.top-container {
+  height: 34rem;
+  background: url(bg.jpg) no-repeat center center/cover;
+  background-size: 100% 100%;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #fffae0;
+  padding: 50px 0 20px;
+}
+
+
+.cirt{
+  height: 500px;
+}
+
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+
+.copyright {
+  color: #5b6666;
+  font-size: 0.95rem;
+  padding: 20px 0;
+}
+
+
+
